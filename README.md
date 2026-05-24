@@ -4,30 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>bolo 3</title>
- <style>
-  body {
-    background-color: #000000;
-    color: #FFFFFF;
-    font-family: Arial, sans-serif;
-}
-h1 {
-    color: white;
-    text-align: left;
-    font-family: Arial, sans-serif;
-}
-p {
-    color: white;
-    text-align: left;
-    font-family: Arial, sans-serif;
-}
-button {    background-color: purple;
-    color: white;
-    padding: 15px 30px;
-    border: none;    border-radius: 8px;
-    cursor: pointer;}
-button:hover {  background-color: darkmagenta;
-    transform: scale(1.1);    transition: transform 0.3s ease;}
-    </style>
 </head>
 <body>
     <h1>bolo tutorial</h1>
