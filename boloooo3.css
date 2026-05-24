@@ -1,0 +1,22 @@
+  body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: white;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+p {
+    color: white;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+button {    background-color: purple;
+    color: white;
+    padding: 15px 30px;
+    border: none;    border-radius: 8px;
+    cursor: pointer;}
+button:hover {  background-color: darkmagenta;
+    transform: scale(1.1);    transition: transform 0.3s ease;}
